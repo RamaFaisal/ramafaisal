@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rama Faisal<br><br>💡 I'm a programmer with experience using Laravel, React, Machine Learning<br>📚 Passionate about web development and data science<br>🚀 Currently working on web development
+👋 Hi, I'm Rama Faisal<br><br>🚀 Currently working on web development<br>💡 Experience using Wordpress, Elementor, Webflow, and WIX<br>📚 Passionate about web development and web design<br>
 
 
 # 💻 Tech Stack:
